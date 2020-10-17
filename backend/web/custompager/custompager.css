@@ -1,0 +1,5 @@
+.active-page,
+.active-page a {
+  color: #fff;
+  background-color: #007bff;
+}
